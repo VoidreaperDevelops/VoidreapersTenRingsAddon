@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="vtr"
+version="1.0.0"
+logoFile = "logo.png"
+logoBlur = false
+displayName="Voidreapers Ten Rings Addon"
+description='''
+a Palladium Addon that adds the Ten Rings and other items from the Marvel movie Shang-Chi!
+'''
+
+[[dependencies.vtr]]
+modId = "palladium"
+mandatory = true
+versionRange = "[4.4.1,)"
+ordering = "NONE"
+side = "BOTH"

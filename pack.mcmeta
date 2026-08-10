@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "vtr",
+        "pack_format": 15,
+        "description": "a Palladium Addon that adds the Ten Rings and other items from the Marvel movie Shang-Chi!",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}
